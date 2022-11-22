@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.card {
+  width: 400px;
+  height: 200px;
+  border: 1px solid red;
+}
+.person {
+  font-size: 100px;
+}
